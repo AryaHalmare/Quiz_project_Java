@@ -1,0 +1,40 @@
+Which data structure uses LIFO (Last In First Out) principle?
+Queue|Stack|Array|Linked List|2
+Which of the following is not a stable sorting algorithm?
+Merge Sort|Bubble Sort|Quick Sort|Insertion Sort|3
+What is the time complexity of binary search?
+O(n)|O(log n)|O(n log n)|O(1)|2
+Which of the following data structures is linear?
+Graph|Tree|Stack|Heap|3
+Which data structure is used for implementing recursion?
+Array|Stack|Queue|Heap|2
+In a max-heap, the value of the root node is:
+Minimum among all nodes|Maximum among all nodes|Depends on implementation|None of these|2
+Which traversal in binary tree is used to get sorted data?
+Preorder|Postorder|Inorder|Level order|3
+Which of the following has O(1) complexity for accessing elements?
+Array|Linked List|Stack|Queue|1
+Which of these is a non-linear data structure?
+Array|Linked List|Queue|Tree|4
+Which searching algorithm is best suited for a sorted array?
+Linear Search|Binary Search|Interpolation Search|Both 2 and 3|4
+What is the auxiliary space complexity of merge sort?
+O(n)|O(1)|O(log n)|O(n log n)|1
+Which operation is not possible in a queue?
+Insertion at rear|Deletion at front|Insertion at front|Traversal|3
+Which algorithm is used for finding shortest path in graphs?
+Kruskal’s|Prim’s|Dijkstra’s|Floyd’s|3
+Which data structure is used in BFS?
+Stack|Queue|Array|Tree|2
+Which sorting algorithm is best for small datasets?
+Merge Sort|Quick Sort|Insertion Sort|Heap Sort|3
+Which of the following traversals uses recursion by default?
+Inorder|Level order|Both A and B|None|1
+Which data structure is best for priority-based processing?
+Stack|Heap|Queue|Tree|2
+In linked list, which traversal is not possible?
+Forward|Backward|Both|None|2
+Which searching algorithm divides array in half repeatedly?
+Linear Search|Jump Search|Binary Search|Exponential Search|3
+Which tree is used in databases for indexing?
+Binary Tree|AVL Tree|B Tree|Trie|3
